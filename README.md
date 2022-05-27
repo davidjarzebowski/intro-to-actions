@@ -48,7 +48,7 @@ endstep0-->
   Encourage users to open new tabs for steps!
 -->
 
-<details id=1 open>
+<details id=1>
 <summary><h2>Step 1: Create a workflow file</h2></summary>
 
 _Welcome to "Hello GitHub Actions"! :wave:_
@@ -83,7 +83,7 @@ We went ahead and made a branch and pull request for you.
   Historic note: The previous course had troubleshooting steps for people not using the GitHub UI.
 -->
 
-<details id=2>
+<details id=2 open>
 <summary><h2>Step 2: Add a job to your workflow file</h2></summary>
 
 _Nice work! :tada: You added a workflow!_
