@@ -1,6 +1,5 @@
 name: Check emoji shortcode
 on: push
-
 jobs:
   build:
     name: Check emoji shortcode
